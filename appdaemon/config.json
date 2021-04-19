@@ -10,7 +10,8 @@
   "homeassistant_api": true,
   "uart": true,
   "ports": {
-    "5050/tcp": 5050
+    "5050/tcp": 5050,
+    "8870/tcp": 8870
   },
   "ports_description": {
     "5050/tcp": "AppDaemon"
