@@ -14,7 +14,8 @@
     "8870/tcp": 8870
   },
   "ports_description": {
-    "5050/tcp": "AppDaemon"
+    "5050/tcp": "AppDaemon",
+    "8870/tcp": "StreamDeck Webservice"
   },
   "map": ["config:rw", "share:rw", "ssl"],
   "options": {
