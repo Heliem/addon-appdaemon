@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: AppDaemon 4
+# Home Assistant Community Add-on: AppDaemon
 
 [![GitHub Release][releases-shield]][releases]
 ![Project Stage][project-stage-shield]
@@ -27,10 +27,10 @@ Python Apps and HADashboard for Home Assistant
 
 ## About
 
-AppDaemon is a loosely coupled, multithreaded, sandboxed python execution
-environment for writing automation apps for Home Assistant home automation
-software. It also provides a configurable dashboard (HADashboard) suitable
-for wall mounted tablets.
+[AppDaemon][appdaemon] is a loosely coupled, multithreaded, sandboxed Python
+execution environment for writing automation apps for Home Assistant home
+automation software. It also provides a configurable dashboard (HADashboard)
+suitable for wall mounted tablets.
 
 [:books: Read the full add-on documentation][docs]
 
@@ -77,7 +77,7 @@ our [GitHub Repository][repository].
 
 MIT License
 
-Copyright (c) 2021 Franck Nijhof
+Copyright (c) 2021 - 2022 Franck Nijhof
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -99,6 +99,7 @@ SOFTWARE.
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[appdaemon]: https://appdaemon.readthedocs.io
 [armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [commits-shield]: https://img.shields.io/github/commit-activity/y/hassio-addons/addon-appdaemon.svg
@@ -118,7 +119,7 @@ SOFTWARE.
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [issue]: https://github.com/hassio-addons/addon-appdaemon/issues
 [license-shield]: https://img.shields.io/github/license/hassio-addons/addon-appdaemon.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
